@@ -76,21 +76,6 @@ Perfect for music students, parents, or anyone interested in learning music onli
 
 ---
 
-## 🏗️ Project Structure
-
-music-academy-website/
-│
-├── index.html         
-├── css/
-│   └── style.css   
-├── js/
-│   └── script.js       
-├── images/
-│   └── (all project images)
-└── README.md           
-
----
-
 ## 🚀 Roadmap
 
 ### Current Features
