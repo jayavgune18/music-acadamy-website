@@ -1,3 +1,4 @@
+// Last updated: Feb 26, 2026 18:00
 const menuToggle = document.querySelector('.menu-toggle');
 const nav = document.querySelector('nav');
 
@@ -16,7 +17,7 @@ document.querySelectorAll('nav a').forEach(link => {
 
 document.getElementById("form").addEventListener("submit", function (e) {
   e.preventDefault();
-  alert("Message sent successfully 🎶");
+  alert("Message sent successfully ??");
   this.reset();
 });
 function SendEmail(e) {
@@ -35,12 +36,11 @@ function SendEmail(e) {
   )
     .then(
       function () {
-        alert("Email Sent ✅");
+        alert("Email Sent ?");
       },
       function (error) {
-        alert("Failed ❌");
+        alert("Failed ?");
         console.log(error);
       }
     );
 }
-
