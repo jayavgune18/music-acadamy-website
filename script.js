@@ -1,7 +1,6 @@
 // Last updated: Feb 26, 2026 18:00
 const menuToggle = document.querySelector('.menu-toggle');
 const nav = document.querySelector('nav');
-const header = document.querySelector('header');
 
 menuToggle.addEventListener('click', () => {
   nav.classList.toggle('active');
