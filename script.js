@@ -2,7 +2,7 @@
 const menuToggle = document.querySelector('.menu-toggle');
 const nav = document.querySelector('nav');
 
-const navlinks = document.querySelectorAll('nav a');
+
 menuToggle.addEventListener('click', () => {
   nav.classList.toggle('active');
   menuToggle.classList.toggle('active');
