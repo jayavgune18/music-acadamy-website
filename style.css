@@ -1198,7 +1198,6 @@ footer small {
     font-size: 0.85rem;
   }
 }
-
 footer {
   opacity: 0;
   transform: scale(0.92) translateZ(-120px);
