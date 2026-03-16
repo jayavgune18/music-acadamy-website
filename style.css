@@ -1181,7 +1181,6 @@ footer small {
     justify-content: center;
   }
 }
-
 @media(max-width: 480px) {
   footer {
     padding: 30px 15px;
