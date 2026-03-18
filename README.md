@@ -95,4 +95,4 @@ Feel free to reach out to me:
 
 - **Email:** [jayavgune18@gmail.com](mailto:jayavgune18@gmail.com)  
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jay-avgune/)  
-
+..
