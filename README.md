@@ -1,4 +1,4 @@
-# 🎵 Harmony Music Academy Website 
+# 🎵 Harmony Music Academy Website
 
 Welcome to the **Harmony Music Academy Website** repository! 🎶  
 This project is a **modern, responsive website** designed for a music academy to showcase **courses, instructors, events, and contact information**. Explore the features and see how the academy inspires students to pursue their passion for music. 🎹🎸🎤
